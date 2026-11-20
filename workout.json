@@ -1,13 +1,14 @@
 {
   "date": "2026-11-20",
-  "kind": "gym",
-  "title": "Strength + Power",
-  "subtitle": "45 min",
+  "kind": "swim",
+  "title": "Aerobic Free",
+  "subtitle": "2200 m | 45 mins",
   "sections": [
-    {"type": "warmup", "title": "Warm Up", "lines": ["Rowing @ 5min"]},
-    {"type": "main", "title": "A - 4 rounds", "lines": ["KB swing @ 12", "Squat jump @ 6"]},
-    {"type": "main", "title": "B - 4 rounds", "lines": ["DB front squat @ 6", "DB bench press @ 6"]},
-    {"type": "main", "title": "C - 3 rounds", "lines": ["1-arm DB row @ 8/side", "V-sit @ 30sec"]},
-    {"type": "cooldown", "title": "Cool Down", "lines": ["5 min stretch"]}
+    {"type": "warmup", "title": "Warm Up", "lines": ["200m", "@ aerobic"]},
+    {"type": "main", "title": "Kick", "lines": ["4×50m @ 1:15"]},
+    {"type": "main", "title": "Drill", "lines": ["4×100m @ 2:00", "choice drill"]},
+    {"type": "main", "title": "Main", "lines": ["6×150m @ 2:40", "hold steady pace"]},
+    {"type": "main", "title": "Sprint", "lines": ["6×50 @ 1:10"]},
+    {"type": "cooldown", "title": "Cool Down", "lines": ["200m", "@ aerobic"]}
   ]
 }
