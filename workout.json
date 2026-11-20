@@ -2,11 +2,10 @@
   "date": "2026-11-20",
   "kind": "run",
   "title": "Day 4: Track Ladder",
-  "subtitle": "4.3 miles | 45 mins",
+  "subtitle": "3.5 miles | 45 mins",
   "sections": [
     {"type": "warmup", "title": "Warm Up", "lines": ["8 min", "@ 11:30-13:00/mi"]},
-    {"type": "main", "title": "Strides", "lines": ["4×100m @ 8:30/mi"], "rest": "walk back"},
-    {"type": "main", "title": "Ladder 5K Pace", "lines": ["200-400-600-800", "600-400-200", "@ 9:39/mi"], "rest": "200m jog between"},
+    {"type": "main", "title": "Ladder - 5K Pace", "lines": ["200m @ 1:45", "400m @ 3:15", "600m @ 4:45", "800m @ 6:15", "600m @ 4:45", "400m @ 3:15", "200m @ 1:45"]},
     {"type": "cooldown", "title": "Cool Down", "lines": ["10 min", "@ 12:30-14:00/mi"]}
   ]
 }
