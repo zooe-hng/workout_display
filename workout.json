@@ -1,13 +1,13 @@
 {
   "date": "2026-11-20",
   "kind": "gym",
-  "title": "Arm Day",
-  "subtitle": "40 min",
+  "title": "KB Full Body",
+  "subtitle": "30 min",
   "sections": [
-    {"type": "warmup", "title": "Warm Up", "lines": ["Rowing @5min", "Arm circles @20"]},
-    {"type": "main", "title": "A - 4 rounds", "lines": ["DB curl @10", "Skull crusher @10"]},
-    {"type": "main", "title": "B - 3 rounds", "lines": ["Hammer curl @12", "Overhead ext @12"]},
-    {"type": "main", "title": "C - 3 rounds", "lines": ["Lateral raise @15", "Bench dip @to failure"]},
-    {"type": "cooldown", "title": "Cool Down", "lines": ["Arm + chest stretch"]}
+    {"type": "warmup", "title": "Warm Up", "lines": ["KB halo @ 8/side", "Goblet squat @ 10"]},
+    {"type": "main", "title": "A - 4 rounds", "lines": ["KB swing @ 15", "Goblet squat @ 10"]},
+    {"type": "main", "title": "B - 3 rounds", "lines": ["Clean + press @ 6/side", "KB row @ 10/side"]},
+    {"type": "main", "title": "C - 3 rounds", "lines": ["Reverse lunge @ 8/side", "Russian twist @ 20"]},
+    {"type": "cooldown", "title": "Cool Down", "lines": ["5 min stretch"]}
   ]
 }
