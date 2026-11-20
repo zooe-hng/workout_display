@@ -1,11 +1,13 @@
 {
   "date": "2026-11-20",
-  "kind": "run",
-  "title": "Day 4: Track Ladder",
-  "subtitle": "3.5 miles | 45 mins",
+  "kind": "gym",
+  "title": "Strength + Power",
+  "subtitle": "45 min",
   "sections": [
-    {"type": "warmup", "title": "Warm Up", "lines": ["8 min", "@ 11:30-13:00/mi"]},
-    {"type": "main", "title": "Ladder - 5K Pace", "lines": ["200m @ 1:45", "400m @ 3:15", "600m @ 4:45", "800m @ 6:15", "600m @ 4:45", "400m @ 3:15", "200m @ 1:45"]},
-    {"type": "cooldown", "title": "Cool Down", "lines": ["10 min", "@ 12:30-14:00/mi"]}
+    {"type": "warmup", "title": "Warm Up", "lines": ["Rowing @ 5min"]},
+    {"type": "main", "title": "A - 4 rounds", "lines": ["KB swing @ 12", "Squat jump @ 6"]},
+    {"type": "main", "title": "B - 4 rounds", "lines": ["DB front squat @ 6", "DB bench press @ 6"]},
+    {"type": "main", "title": "C - 3 rounds", "lines": ["1-arm DB row @ 8/side", "V-sit @ 30sec"]},
+    {"type": "cooldown", "title": "Cool Down", "lines": ["5 min stretch"]}
   ]
 }
