@@ -1,7 +1,7 @@
 {
   "date": "2026-11-20",
   "kind": "run",
-  "title": "Track Ladder",
+  "title": "Day 4: Track Ladder",
   "subtitle": "4.3 miles | 45 mins",
   "sections": [
     {"type": "warmup", "title": "Warm Up", "lines": ["8 min", "@ 11:30-13:00/mi"]},
