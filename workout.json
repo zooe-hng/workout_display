@@ -1,13 +1,13 @@
 {
   "date": "2026-11-20",
-  "kind": "gym",
-  "title": "KB Full Body",
-  "subtitle": "30 min",
+  "kind": "swim",
+  "title": "@kiratrains_'s swim",
+  "subtitle": "1,300 yd",
   "sections": [
-    {"type": "warmup", "title": "Warm Up", "lines": ["KB halo @ 8/side", "Goblet squat @ 10"]},
-    {"type": "main", "title": "A - 4 rounds", "lines": ["KB swing @ 15", "Goblet squat @ 10"]},
-    {"type": "main", "title": "B - 3 rounds", "lines": ["Clean + press @ 6/side", "KB row @ 10/side"]},
-    {"type": "main", "title": "C - 3 rounds", "lines": ["Reverse lunge @ 8/side", "Russian twist @ 20"]},
-    {"type": "cooldown", "title": "Cool Down", "lines": ["5 min stretch"]}
+    {"type": "warmup", "title": "Warm Up", "lines": ["200 easy, any stroke"]},
+    {"type": "main", "title": "Drills", "lines": ["4x50 catch-up drill", "20s rest"]},
+    {"type": "main", "title": "Main Set", "lines": ["6x100 steady", "20s rest"]},
+    {"type": "main", "title": "Kick", "lines": ["4x50 kickboard"]},
+    {"type": "cooldown", "title": "Cool Down", "lines": ["100 easy"]}
   ]
 }
