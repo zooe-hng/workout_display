@@ -1,14 +1,9 @@
 {
-  "date": "2026-11-20",
-  "kind": "swim",
-  "title": "Aerobic Free",
-  "subtitle": "2200 m | 45 mins",
+  "date": "2026-11-21",
+  "kind": "gym",
+  "title": "Machine Leg Day",
+  "subtitle": "Beginner",
   "sections": [
-    {"type": "warmup", "title": "Warm Up", "lines": ["200m", "@ aerobic"]},
-    {"type": "main", "title": "Kick", "lines": ["4×50m @ 1:15"]},
-    {"type": "main", "title": "Drill", "lines": ["4×100m @ 2:00", "choice drill"]},
-    {"type": "main", "title": "Main", "lines": ["6×150m @ 2:40", "hold steady pace"]},
-    {"type": "main", "title": "Sprint", "lines": ["6×50 @ 1:10"]},
-    {"type": "cooldown", "title": "Cool Down", "lines": ["200m", "@ aerobic"]}
+    {"type": "main", "title": "Leg Day - Machines", "lines": ["Leg press @4x8-10", "Leg extension @3x10-12", "Hamstring curl @3x10-12", "Hip adduction @3x10", "Calf raises @3x12-15"]}
   ]
 }
