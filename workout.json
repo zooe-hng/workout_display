@@ -1,9 +1,12 @@
 {
-  "date": "2026-11-21",
-  "kind": "gym",
-  "title": "Machine Leg Day",
-  "subtitle": "Beginner",
+  "date": "2026-11-23",
+  "kind": "other",
+  "title": "Move + Agility",
+  "subtitle": "30 min",
   "sections": [
-    {"type": "main", "title": "Leg Day - Machines", "lines": ["Leg press @4x8-10", "Leg extension @3x10-12", "Hamstring curl @3x10-12", "Hip adduction @3x10", "Calf raises @3x12-15"]}
+    {"type": "warmup", "title": "Warm Up", "lines": ["Easy jog @ 3min", "Leg swings @ 10/side"]},
+    {"type": "main", "title": "Mobility - 2 rds", "lines": ["90/90 hips @ 8/side", "Lunge + reach @ 6/side", "Thoracic rot @ 8/side"]},
+    {"type": "main", "title": "Agility - 4 rds", "lines": ["Lat shuffle @ 20s", "T-drill @ 3 reps", "Skater hops @ 10/side"], "rest": "45s walk"},
+    {"type": "cooldown", "title": "Cool Down", "lines": ["Pigeon @ 60s/side", "Hamstring fold @ 60s"]}
   ]
 }
